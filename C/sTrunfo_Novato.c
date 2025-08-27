@@ -118,8 +118,10 @@ int main() { // Declarando variáveis a serem usadas.
     printf("\nNúmero de pontos Turísticos: %i", numPontosTuristicos2);
     printf("\nDensidade Populacional: %.2f hab/km²", densPopulacional2);
     printf("\nPIB per Capta: %.2f reais\n", pibPerCapta2);
+    printf("\nSuper Poder: %.2f)", superpoder2);
 
     printf("\n// -------------------------------- // -----------------------------//\n");
+    
     // Comparação das cartas //
 
     printf("\nComparação das Cartas: ");
